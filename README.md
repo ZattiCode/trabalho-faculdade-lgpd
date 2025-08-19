@@ -15,13 +15,6 @@ O objetivo é apresentar os principais pontos da lei de forma **visual, interati
 
 ---
 
-## 📸 Demonstração  
-
-![Print da página inicial](./assets/print-home.png)  
-*(Você pode substituir esse arquivo pelo print que quiser mostrar — basta salvar a imagem na pasta `assets/` do projeto e trocar o nome aqui.)*  
-
----
-
 ## 👤 Autor  
 **Gustavo Zatti**  
 
